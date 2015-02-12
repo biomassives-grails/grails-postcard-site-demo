@@ -1,6 +1,10 @@
-# Twitter Bootstrap Scaffolding
+# Grails Test Backed Postcard Mailer
 
-This is an experimental Grails project using Twitter Bootstrap for scaffolded views.
+
+This mailer system is a work in progress and is
+derived from the Twitter Bootstrap Scaffolding project 
+
+is an experimental Grails project using Twitter Bootstrap for scaffolded views.
 
 
 ## Installation
